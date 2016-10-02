@@ -43,7 +43,6 @@ Next, [open the starter code](./w8-1.2-starter.ipynb) and begin to try your hand
 
 Gentlemen (and ladies), [start your engines!](./w8-1.2-starter.ipynb)
 
-> [Solution Code](./w8-1.2-solutions.ipynb)
 
 #### Deliverable
 
